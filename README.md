@@ -11,7 +11,6 @@ chmod a+x createproject.sh
 ```bash
 sudo ln -s /path/to/file/createproject.sh /usr/local/bin/createproject
 ```
-<br>
 
 # Uso
 Ahora simplemente desde consola llamamos a:
