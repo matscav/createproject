@@ -7,7 +7,7 @@ git clone git@github.com:matscav/createproject.git createproject
 ```bash
 chmod a+x createproject.sh
 ```
-3. Guardar en /usr/local/bin para usar en consola
+3. Guardar en /usr/local/bin para usar en consola (testeado solo en Debian)
 ```bash
 sudo ln -s /path/to/file/createproject.sh /usr/local/bin/createproject
 ```
